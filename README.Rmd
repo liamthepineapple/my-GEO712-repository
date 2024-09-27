@@ -14,7 +14,11 @@ knitr::opts_chunk$set(
 # my-GEO712-repository
 
 # **0. Summary of File Structure**
-This readme document is stored in an R project structure titled "Activity2." In this project structure, there are a number of folders and files. The `renv` folder stores the respective R packages and their versions for this project. The `images` folder contains any relevant images for the project and any inserted images will be stored and pulled from this folder. The folder `plots` stores any generated data plots. The folder `data.raw` contains any relevant raw data, before any processing is done on them.
+This readme document is stored in an R project structure titled "Activity2." In this project structure, there are a number of folders and files:
+
+1. The `renv` folder stores the respective R packages and their versions for this project. 
+1. The `images` folder contains any relevant images for the project and any inserted images will be stored and pulled from this folder. 
+
 
 # **1. Main Area of Research** 
 
